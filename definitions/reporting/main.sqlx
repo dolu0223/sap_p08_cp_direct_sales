@@ -31,6 +31,7 @@ SELECT
         ),
         2
     ) AS GROSS_SALES_AMOUNT_LOCAL,
+    'GBP' AS GROSS_SALES_AMOUNT_LOCAL_CURRENCY_CODE,
     ROUND(
         SUM (
             AMT.GROSS_SALES_AMOUNT_LOCAL * ER_EUR.exchange_rate
