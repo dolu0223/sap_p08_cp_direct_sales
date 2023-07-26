@@ -1,0 +1,7 @@
+config {
+  type: "declaration",
+  database: "bcs-customer360-dev",
+  schema: "staging",
+  name: "stg_material_list",
+  description: "material_list"
+}

@@ -2,6 +2,6 @@ config {
   type: "declaration",
   database: "bcs-customer360-dev",
   schema: "staging_eu_west1",
-  name: "billing_line",
-  description: "raw billing_line table"
+  name: "exchange_rate_cal",
+  description: "raw exchange_rate_cal table"
 }

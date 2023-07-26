@@ -1,5 +1,5 @@
 {
-  "name": "gcde-sql-workflows",
+  "name": "sap_p08_cp_direct_sales",
   "dependencies": {
     "@dataform/core": "2.4.2"
   }
